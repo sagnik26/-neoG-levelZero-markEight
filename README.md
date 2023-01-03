@@ -6,6 +6,15 @@ go to the website by clicking the link below
 # Visit the website
 Click [here](https://your-emoji-interpreter.netlify.app/) to visit the website
 
+# How to use:
+- Open the link above to enter the website.
+- In the input field, write any emoji or you can select any emoji below by clicking them and you you will get the emotion related to that emoji.
+
+# Technology Stack:
+- ReactJS
+- JavaScript
+- CSS
+
 # How to run on your Local Machine?
 If you want to run the application on you local machine, then download the code from this directory into your local machine & then follow the below instructions to run the app.
 
