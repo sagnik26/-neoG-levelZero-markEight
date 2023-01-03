@@ -1,3 +1,11 @@
+# Description
+This is an online emoji interpreter. It will show your emotion according to the emoji you input. 
+Wanna try? 
+go to the website by clicking the link below
+
+# Visit the website
+Click [here](https://your-emoji-interpreter.netlify.app/) to visit the website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
