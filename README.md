@@ -16,7 +16,7 @@ Click [here](https://your-emoji-interpreter.netlify.app/) to visit the website
 - CSS
 
 # How to run on your Local Machine?
-If you want to run the application on you local machine, then download the code from this directory into your local machine & then follow the below instructions to run the app.
+If you want to run the application on you local machine, then download the code from this repository into your local machine & then follow the below instructions to run the app.
 
 # Getting Started with Create React App
 
